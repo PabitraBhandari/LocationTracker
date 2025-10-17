@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/cristbhandari/Documents/MastersD./Sem4/SEMAD/LocationTracker/LocationTracker/bin/Debug/net8.0-ios/iossimulator-arm64/LocationTracker.app/libSystem.Native.dylib
